@@ -16,9 +16,6 @@ DATA_SECTION
   vector y(1,20000)
   !! y=ppbeta(x,0.3,0.4);
   
-
-
-
 PARAMETER_SECTION
   init_number loga
   init_number logb
